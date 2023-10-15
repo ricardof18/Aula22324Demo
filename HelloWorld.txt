@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello World!!!!
-=======
-Hello World
->>>>>>> parent of de0edd3 (segundo commit)
